@@ -4,7 +4,7 @@ In fact, all layers apart from the base are the same as the Preonic layout.
 
 Features include:
 * Spacebar on right thumb only, additional Alt when held
-* An additional Shift key on left thumb, additional Enter when held
+* An additional Shift key on left thumb when held, additional Enter when tapped
 * AltGr, though rarely used it gets a place on this keyboard
 * An entirely useless key! Gaming layer is not present on this keyboard, so no need for a layer switch key for it
 
